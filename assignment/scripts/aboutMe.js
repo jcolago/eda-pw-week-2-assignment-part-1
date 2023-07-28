@@ -12,7 +12,7 @@ let fullName = firstName  +  lastName ;
 console.log ( fullName ) ;
 // 5 - Create a variable called `luckyNumber` and assign it the value of your lucky number.
 let luckyNumber = 21 ;
-console.lot(luckyNumber)
+console.log(luckyNumber)
 // 6 - Console log this sentence, adding in the variables you created above: 
 // 'My name is (full name), and I think (lucky number) is a winner!'.
 // Refer back to the videos if you need help with this one.
